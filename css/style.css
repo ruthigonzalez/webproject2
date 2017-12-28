@@ -1,0 +1,20 @@
+
+h1 {
+    font-family: "segoe script";
+    font-weight: bold;
+    color: white;
+     background-color: black;
+}
+div.container {
+  text-align: center;
+
+}
+body{
+   background-image: url("https://i.pinimg.com/236x/b8/78/de/b878dee735e11e852bd29280f9a1bfde--iphone-wallpaper-so-true.jpg");
+}
+li {
+  font-family: "segoe print";
+  font-weight: bold;
+  color: white;
+   background-color: black;
+}

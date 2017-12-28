@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CSS about.html</title>
+          <link rel ='stylesheet' type="text/css" href="css/style.css">
+    </head>
+    <body>
+      <div class= "container">
+        <h1> <i>TASTY COUNTRY!</i></h1>
+
+      </div>
+    </body>
+</html>

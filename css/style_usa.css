@@ -1,0 +1,20 @@
+
+h3 {
+    font-family: "segoe script";
+    font-weight: bold;
+    color: white;
+     background-color: black;
+}
+div.container {
+  text-align: center;
+
+}
+body{
+background-image: url("https://images-na.ssl-images-amazon.com/images/I/61pBX5NrgkL._SL1002_.jpg");
+}
+p {
+  font-family: "segoe print";
+  font-weight: bold;
+  color: white;
+   background-color: black;
+}
